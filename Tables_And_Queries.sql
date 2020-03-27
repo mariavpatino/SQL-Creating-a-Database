@@ -5,7 +5,6 @@ CREATE TABLE departments (
 	dept_name VARCHAR(30) NOT NULL
 );
 
-
 -- Create Department Employees Table
 DROP TABLE IF EXISTS dept_emp;
 CREATE TABLE dept_emp (
@@ -16,7 +15,6 @@ CREATE TABLE dept_emp (
 	from_date VARCHAR(30) NOT NULL,
 	to_date VARCHAR(30) NOT NULL
 );
-
 
 -- Create Department Managers Table
 DROP TABLE IF EXISTS dept_manager;
@@ -29,7 +27,6 @@ CREATE TABLE dept_manager (
 	to_date VARCHAR(30) NOT NULL
 );
 
-
 -- Create Employees Table
 DROP TABLE IF EXISTS employees;
 CREATE TABLE employees (
@@ -41,7 +38,6 @@ CREATE TABLE employees (
 	hire_date VARCHAR(30) NOT NULL
 );
 
-
 -- Create Salaries Table
 DROP TABLE IF EXISTS salaries;
 CREATE TABLE salaries (
@@ -51,7 +47,6 @@ CREATE TABLE salaries (
 	from_date VARCHAR(30) NOT NULL,
 	to_date VARCHAR(30) NOT NULL
 );
-
 
 -- Create Titles Table
 DROP TABLE IF EXISTS titles;
