@@ -18,6 +18,7 @@ Technology Used:
 * MySQL
 * Python: Pandas, SQLAlchemy
 
+<br>
 
 ## Process
 
