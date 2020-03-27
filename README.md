@@ -49,8 +49,11 @@ Technology Used:
 ![Queries1](Queries1.PNG)
 ![Queries2](Queries2.PNG)
 
+<br>
 
 ## Visualization of the data
+
+<br>
 
 Imported the SQL database into Jupyter Notebook using:
 
